@@ -1,0 +1,1 @@
+{"name":"Local: sundorban","url":"d:\\Phitron\\DSA\\Algorithm\\dsu\\sundorban.cpp","tests":[{"id":1727410058745,"input":"5\nS P P P P\nT P T P P\nT P P P P\nP T E T T\nP T P T T","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\DSA\\Algorithm\\dsu\\sundorban.cpp","group":"local","local":true}
